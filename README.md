@@ -8,5 +8,5 @@ Submitting apps, Apps must be submited Following 3 criteria.
 
 2.) Please refrain from the use of sockets, although allowed if your app is found to be mallicous it will be taken down, and your account will be suspended from submitting apps.
 
-3.) Your app must be able to interface with the main window more instructions below.
+3.) Your app must be able to interface with the main window more instructions below, or look at test.py.
 
